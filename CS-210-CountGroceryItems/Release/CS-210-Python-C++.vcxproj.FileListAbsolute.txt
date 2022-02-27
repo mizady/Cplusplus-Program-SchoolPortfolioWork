@@ -1,0 +1,2 @@
+D:\School\cpp_python_test\CS-210-Python-C++\Release\CS-210-Python-C++.exe
+D:\School\CS-210-Project-Three-Lance-Cain\CS-210-Python-C++\Release\CS-210-Python-C++.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\School\cpp_python_test\CS-210-Python-C++\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CS-210-Python-C++.vcxproj -> D:\School\cpp_python_test\CS-210-Python-C++\x64\Release\CS-210-Python-C++.exe
